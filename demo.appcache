@@ -1,0 +1,31 @@
+CACHE MANIFEST
+# 2012-10-25:v1
+
+# Explicitly cached 'master entries'.
+CACHE:
+index.html
+big_buck_bunny.mp4
+big_buck_bunny.ogv
+big_buck_bunny.webm
+form.html
+geolocation.html
+html5video.html
+jquery-latest.js
+player.swf
+poster.jpg
+weather.css
+weather.html
+weather.js
+weather_offline.html
+webstorage.html
+worker.js
+workers.html
+glyphs
+bootstrap
+
+# Resources that require the user to be online.
+NETWORK:
+weather.html
+
+FALLBACK:
+/weather.html /weather_offline.html

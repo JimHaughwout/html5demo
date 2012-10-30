@@ -1,4 +1,4 @@
-html5weather
+html5demo
 ============
 
-HTML5 Weather
+Simple HTML5 demos going with 
